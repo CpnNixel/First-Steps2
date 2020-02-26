@@ -1,0 +1,7 @@
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\bin\Debug\oop2.exe.config
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\bin\Debug\oop2.exe
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\bin\Debug\oop2.pdb
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\obj\Debug\oop2.csprojAssemblyReference.cache
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\obj\Debug\oop2.csproj.CoreCompileInputs.cache
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\obj\Debug\oop2.exe
+C:\Users\МикитаКисіль\source\repos\oop2\oop2\obj\Debug\oop2.pdb
