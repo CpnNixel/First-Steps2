@@ -1,6 +1,3 @@
-# First-Steps
-Mini-projects created during university study-process back in 2018-2019. 
-
 Class, that implements singly-linked recursive list with methods are properties for manipulating its objects
 
 1. Constructor with 1 parameter;
